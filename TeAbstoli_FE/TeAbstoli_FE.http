@@ -1,0 +1,6 @@
+@TeAbstoli_FE_HostAddress = http://localhost:5114
+
+GET {{TeAbstoli_FE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
